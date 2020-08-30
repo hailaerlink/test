@@ -1,2 +1,2 @@
 <?php
-echo 'nihao';
+echo '你好';
